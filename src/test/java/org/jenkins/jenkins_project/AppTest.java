@@ -16,7 +16,7 @@ public class AppTest
     public void testReturnSumOfTwoNumbers(){
     	App testObj = new App();
     	int result = testObj.returnSumOfTwoNumbers(20, 10);
-    	assertEquals(30,result);
+    	assertEquals(40,result);
     }
     
 }
